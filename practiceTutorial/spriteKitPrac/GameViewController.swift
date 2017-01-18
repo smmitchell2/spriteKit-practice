@@ -2,8 +2,8 @@
 //  GameViewController.swift
 //  spriteKitPrac
 //
-//  Created by Aime Student2 on 1/17/17.
-//  Copyright © 2017 Aime Student2. All rights reserved.
+//  Created by Shawn Mitchell on 1/17/17.
+//  Copyright © 2017 Shawn Mitchell. All rights reserved.
 //
 
 import UIKit
